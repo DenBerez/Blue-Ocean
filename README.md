@@ -3,13 +3,21 @@
 ![kaLogo](https://user-images.githubusercontent.com/93063638/161103971-6cf6dd93-8d9d-407d-8fd0-331d8a014e48.png)
 
 Contributors:
+
 Dennis Berezin
+
 David Berghoff
+
 Chase Riggs
+
 Tyler Engel
+
 Robert Hasel
+
 Zhi Wei Tan
+
 Minseo Kim
+
 
 ## Introduction
 This project was a brief 1-week sprint where our team tried to complete an MVP for an external user (Jane Doe)
