@@ -20,15 +20,15 @@ Minseo Kim
 
 
 ## Introduction
-This project was a brief 1-week sprint where our team tried to complete an MVP for an external user (Jane Doe)
-Add any additional content here pertaining to the timeline, any personal goals, etc.
+Met with clients to plan their envisioned app and completed it within the week.
 
 ## What does the app do?
-* What problem does it solve? Who uses it?
-* Why was it built?
-* User Inputs and Outputs
+* Allows mentors to select skills they're willing to tutor in.
+* Allows learners to find mentors by name or skill and schedule an appointment with them.
+* Uses Calendly and Google Calendar to set and track appointments.
 
 ## Tech stack ( you can include logos)
+Javascript, Node.js, Express, PostgreSQL, MUI
 
 ## Technical Challenges and research that you anticipated
 * Why, what was the plan to overcome those challenges?
