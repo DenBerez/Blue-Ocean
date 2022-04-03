@@ -28,7 +28,7 @@ Met with clients to plan their envisioned app and completed it within the week.
 * Uses Calendly and Google Calendar to set and track appointments.
 
 ## Tech stack
-Javascript, Node.js, Express, PostgreSQL, MUI
+Javascript, Node.js, Express, PostgreSQL, Material UI, Google Calendar API, Google API
 
 ## Video Demo
 
