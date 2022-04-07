@@ -31,6 +31,10 @@ Met with clients to plan their envisioned app and completed it within the week.
 Javascript, Node.js, Express, PostgreSQL, Material UI, Google Calendar API, Google API
 
 ## Video Demo
+### Auth, Search, Mentor Profiles
+https://user-images.githubusercontent.com/87378829/161333463-0e404de7-2a4a-4f71-a19e-724e093b90b3.gif
+
+### Scheduling and Google Calendar Integration
 https://user-images.githubusercontent.com/93063638/161448974-65bf137f-39de-4305-9aea-2824fd2d88e6.mp4
 
 
