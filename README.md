@@ -32,7 +32,8 @@ Javascript, Node.js, Express, PostgreSQL, Material UI, Google Calendar API, Goog
 
 ## Video Demo
 ### Auth, Search, Mentor Profiles
-https://user-images.githubusercontent.com/87378829/161333463-0e404de7-2a4a-4f71-a19e-724e093b90b3.gif
+![161333463-0e404de7-2a4a-4f71-a19e-724e093b90b3](https://user-images.githubusercontent.com/93063638/162283088-0f2ac0bf-2fb4-4639-80ac-640807e51dcc.gif)
+
 
 ### Scheduling and Google Calendar Integration
 https://user-images.githubusercontent.com/93063638/161448974-65bf137f-39de-4305-9aea-2824fd2d88e6.mp4
